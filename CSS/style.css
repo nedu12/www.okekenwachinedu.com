@@ -1,0 +1,19 @@
+body {
+background-color: silver;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 2px;
+  width: 300px;
+ }
+ h1 {
+   font-size: 2em;
+  color: darkgreen;
+  }
+  h3{
+    font-size: 2em;
+ color: darkgreen;
+   }
